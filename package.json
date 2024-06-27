@@ -9,6 +9,9 @@
   },
   "author": "",
   "license": "ISC",
+  "bin": {
+    "gendiff": "usr/bin/gendiff.js"
+  },
   "dependencies": {
     "commander": "^12.1.0"
   }
